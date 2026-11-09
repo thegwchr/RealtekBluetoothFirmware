@@ -11,7 +11,7 @@ Both Realtek firmware formats are supported — **v2 (`RTBTCore`)** and **v1
 |-----------------|-----------|---------|---------|-----------------------|--------|
 | RTL8822C/CE     | 0x8822    | 0x000c  | 0x0a    | `rtl8822cu_fw.bin`    | v2 |
 | RTL8851B        | 0x8851    | 0x000b  | 0x0c    | `rtl8851bu_fw.bin`    | v2 |
-| RTL8852B        | 0x8852    | 0x000b  | 0x0b    | `rtl8852bu_fw.bin`    | v2 |
+| RTL8852B/BE     | 0x8852    | 0x000b  | 0x0b    | `rtl8852bu_fw.bin`    | v2 |
 | RTL8852C        | 0x8852    | 0x000c  | 0x0c    | `rtl8852cu_fw_v2.bin` | v2 |
 | RTL8852BT/BE-VT | 0x8852    | 0x0087  | 0x0c    | `rtl8852btu_fw.bin`   | v2 |
 | RTL8922A        | 0x8922    | 0x000a  | 0x0c    | `rtl8922au_fw.bin`    | v2 |
